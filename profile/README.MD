@@ -1,64 +1,66 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ColetaLog/.github/main/profile/banner-placeholder.png" alt="ColetaLog Banner" width="100%" />
-  
   <h1>📦 ColetaLog</h1>
-  <p><b>Simplificando a logística de Pontos de Coleta com tecnologia. Gestão inteligente de pacotes pelo celular e sem complicação.</b></p>
-  
-  <br />
+  <p>Simplificando a logística de Pontos de Coleta com tecnologia.<br/>Gestão inteligente de pacotes pelo celular, sem complicação.</p>
+
+  <a href="https://www.coletalog.com.br">
+    <img src="https://img.shields.io/badge/Acessar%20Plataforma-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:contato@coletalog.com.br">
+    <img src="https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/coletalog">
+    <img src="https://img.shields.io/badge/@coletalog-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
-## 💡 O que é o ColetaLog?
-
-O **ColetaLog** é um SaaS (Software as a Service) focado na operação de *last-mile delivery* (última milha) para lojistas que atuam como pontos de coleta de encomendas (Mercado Livre / Shoppe / Amazon). Nossa missão é eliminar as perdas de pacotes, a desorganização de balcão e os custos com hardwares de leitura.
-
-Ao invés de depender de leitores de código de barras caros ou planilhas manuais, o ColetaLog transforma qualquer smartphone comum em uma poderosa ferramenta de gestão logística e controle de estoque de prateleiras, sincronizada 100% na nuvem.
-
-<br />
-
-## 🚀 Principais Funcionalidades
-
-- **Scanner Mobile Integrado:** Leitura de alta velocidade utilizando apenas a câmera do dispositivo, sem necessidade de aplicativos de terceiros.
-- **Mapeamento de Prateleiras:** Localize instantaneamente qualquer pacote na sua loja no momento em que o cliente chegar.
-- **Automação Financeira:** Assinaturas gerenciadas via Webhooks, com renovações automáticas, geração de PIX e liberação de pacotes em tempo real.
-- **Segurança e Auditoria:** Sistema de *Rate Limiting* (proteção contra brute force), limitação de sessões por dispositivo e níveis de acesso (Admin/Operador).
-- **Relatórios Inteligentes:** Acompanhamento de fluxo de devoluções, tempo de permanência de pacotes e volumetria diária.
-
-<br />
-
-## 🛠️ Stack Tecnológica
-
-Nossa arquitetura foi desenhada para garantir escalabilidade, segurança e alta disponibilidade (High Availability).
-
-**Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
-**Backend & Dados**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-
-**Integrações & Infra**
-<br/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Asaas_API-0044CC?style=for-the-badge&logo=api&logoColor=white" />
-
-<br />
-
-## 🔗 Links Úteis
-
-- 🌐 **Plataforma Web:** [www.coletalog.com.br](http://www.coletalog.com.br)
-- 📸 **Instagram:** [@coletalog](https://www.instagram.com/coletalog)
-- ✉️ **Contato Comercial e Suporte:** contato@coletalog.com.br
-
-<br />
+Lojistas que atuam como pontos de coleta do Mercado Livre, Shopee e Amazon enfrentam todo dia o mesmo problema: pacotes perdidos, balcão desorganizado e leitores de código de barras caros. O ColetaLog resolve isso transformando qualquer smartphone em uma ferramenta completa de gestão logística — sem hardware extra, sem planilha, sem dor de cabeça.
 
 ---
-<div align="center">
-  <sub>Construído com excelência para revolucionar a logística de Pontos de Coleta no Brasil. 🇧🇷</sub>
-</div>
+
+## 🎯 Para quem é
+
+Para o lojista que recebe encomendas de terceiros e precisa:
+
+- Saber **onde está cada pacote** quando o cliente chega
+- **Evitar perdas e extravios** sem montar uma operação complexa
+- Ter **controle financeiro automático** das assinaturas e cobranças
+- Operar tudo isso **pelo celular**, de qualquer lugar
+
+---
+
+## ✨ O que o ColetaLog faz
+
+**📱 Scanner pelo celular**
+Leitura rápida de códigos de barras direto pela câmera — sem app extra, sem equipamento.
+
+**🗂️ Mapeamento de prateleiras**
+Na hora que o cliente chega, você sabe exatamente onde o pacote está.
+
+**💳 Financeiro no piloto automático**
+Assinaturas com renovação automática, geração de PIX e liberação de acesso em tempo real.
+
+**🔒 Segurança e controle de acesso**
+Proteção contra tentativas de invasão, controle por dispositivo e níveis de permissão para Admin e Operador.
+
+**📊 Relatórios que importam**
+Veja o fluxo de devoluções, quanto tempo cada pacote fica na loja e o volume diário de movimentações.
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,postgres" />
+</p>
+
+---
+
+## 🔗 Links
+
+- 🌐 **Plataforma:** [coletalog.com.br](https://www.coletalog.com.br)
+- 📸 **Instagram:** [@coletalog](https://instagram.com/coletalog)
+- ✉️ **Contato:** contato@coletalog.com.br
